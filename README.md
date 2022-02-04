@@ -25,5 +25,5 @@ apt update && apt install git python3 -y && git clone https://github.com/unoffic
 ```
 
 ## [+] Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/unofficialdxnny)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/unofficialdxnny)
+[![Github](https://img.shields.io/badge/Github-unofficialdxnny-green?style=for-the-badge&logo=github)](https://github.com/unofficialdxnny)
+[![Instagram](https://img.shields.io/badge/IG-%40unofficialdxnny-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/unofficialdxnny)
