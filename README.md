@@ -21,7 +21,7 @@ The NameError: name `raw_input` is not defined error is raised when you try to u
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git python2 -y && git clone https://github.com/htr-tech/fake-mailer && cd fake-mailer && python2 mailer.py
+apt update && apt install git python3 -y && git clone https://github.com/unofficialdxnny/fake-mailer && cd fake-mailer && python3 mailer.py
 ```
 
 ## [+] Find Me on :
