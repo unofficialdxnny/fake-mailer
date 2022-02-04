@@ -3,6 +3,12 @@
 ### [+] Disclaimer :
 ***Fake Mailer is tool to Send Mail Anonymously from a different Email.This process can take upto 5 mins. This tool is created for Educational Purpose Only !! I am not responsible for any Misuse of this tool !!***
 
+
+### Updated for python3+
+
+The NameError: name `raw_input` is not defined error is raised when you try to use the `raw_input()` method in Python 3. To fix this error, replace all instances of `raw_input()` with the `input()` function in your program.
+
+
 ![Fake Mailer](https://raw.githubusercontent.com/htr-tech/release-download/master/images/fakemailer.png)
 
 ## Installation :
