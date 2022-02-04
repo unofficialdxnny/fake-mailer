@@ -17,7 +17,7 @@ The NameError: name `raw_input` is not defined error is raised when you try to u
 * `git clone https://github.com/unofficialdxnny/fake-mailer`
 * `cd fake-mailer`
 
-#### Run : `python2 mailer.py`
+#### Run : `python3 mailer.py`
 
 ### Or ; Use Single Command
 ```
